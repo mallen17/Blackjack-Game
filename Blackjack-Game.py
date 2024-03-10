@@ -1,4 +1,5 @@
 # Blackjack
+# Made by Max Allen
 
 import random
 
